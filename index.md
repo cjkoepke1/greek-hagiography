@@ -11,26 +11,26 @@ title: "Greek Hagiography"
 
 ## September (*Σεπτέμβριος*)
 
-## October (*Οκτώβριος*)
+## October (*Ὀκτώβριος*)
 
 ## November (*Νοέμβριος*)
 
 ## December (*Δεκέμβριος*)
 
-## January (*Ιανουάριος*)
+## January (*Ἰανουάριος*)
 
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
 
-## April (*Απρίλιος*)
+## April (*Ἀπρίλιος*)
 
 ## May (*Μάιος*)
 
-## June (*Ιούνιος*)
+## June (*Ἰούνιος*)
 
-## July (*Ιούλιος*)
+## July (*Ἰούλιος*)
 
-## August (*Αύγουστος*)
+## August (*Αὔγουστος*)
 
 ---
