@@ -10,7 +10,7 @@ source: Acta Sanctorum ex BAV Vat. gr. 1608
 
 ---
 
-### Κεφάλαιον Αʹ. *Caesarius ex Africa Terracinam veniens, dirum iuvenis sacrificium improbat; mittitur in carcerem.*  
+### Κεφάλαιον Αʹ. *Caesarius ex Africa Terracinam veniens, dirum iuvenis sacrificium improbat; mittitur in carcerem.*
 
 &nbsp;
 
@@ -36,7 +36,9 @@ source: Acta Sanctorum ex BAV Vat. gr. 1608
 
 §11) Ἀκούσας δὲ ταῦτα Φιρμίνος ὁ ἀρχιερεύς τῶν εἰδώλων, καὶ ἑωρακὼς τὸν μακάριον Καισάριον φήσαντα ταῦτα, ἐκέλευσεν αὐτίκα κρατηθῆναι αὐτὸν μετὰ πάσης ἀσφαλείας καὶ τοῦτον κατακλεισθῆναι ἐν τῇ δημοσίᾳ εἱρκτῇ. Τὸ δὲ σῶμα τοῦ δυσσεβοῦς Λουκιανοῦ κιανοῦ ἐκέλευσεν ἐπιμελῶς συναχθῆναι, καὶ κατὰ τὸ εἰωθὸς αὐτῷ ἀπήγαγεν εὶς τὸν ναὸν τοῦ Ἀπόλλωνος, καὶ τοῦτο πυρὶ ἀνήλωσεν · καὶ οὕτως θυσίαις ἐκόσμησεν τὸν ναὸν τοῦ Ἀπόλλωνος.
 
-### Κεφάλαιον Βʹ. *Caesarius a Leontio consulari Campaniae ad sacrificandum frustra sollicitatur. Eius precibus templum Apollinis corruit et ruina Firminum pontificem opprimit.*  
+### Κεφάλαιον Βʹ. *Caesarius a Leontio consulari Campaniae ad sacrificandum frustra sollicitatur. Eius precibus templum Apollinis corruit et ruina Firminum pontificem opprimit.*
+
+&nbsp;
 
 §12) Μετὰ οὖν ἡμέρας ὀκτὼ ἦλθεν Λουξούριός τις ὀνόματι, πρῶτος ὑπάρχων Τερρακίνης τῆς πόλεως, ἅμα Φιρμίνῳ τῷ ἀπχιερεῖ πρὸς τὸν μακάριον Καισάριον ἔνθα ἧν κατακεκλεισμένος, καὶ ἐξήνεγκαν αὐτὸν ἐκ τῆς φυλακῆς · ὅν καὶ ἄγοντες ἔστησαν δημοσίᾳ ἐν μέσῳ τῆς ἀγορᾶς τῆς πόλεως Τερρακίνης, καὶ ᾐτήσαντο τὸν ὕπατον τῆς Καμπανίας, ὅστις ἧν ἐν ἐκείναις ταῖς ἡμέραις ὕπατος καθεζόμενος εἰς Φουντάναν τὴν πόλιν οὕτω καλουμένην, ὅς ἐκέκλητο Λεόντιος τοὔνομα.
 
@@ -58,7 +60,9 @@ source: Acta Sanctorum ex BAV Vat. gr. 1608
 
 §21) Τότε ἔκραξεν πᾶς ὁ λαὸς, μεγάλῃ τῇ φωνῇ λέγοντες · «Ἀγαθὸς ὁ ἄνθρωπος οὗτος καὶ δίκαια λέγει». ἀκούσας δὲ ταῦτα ὁ παράνομος Λουξούριος καὶ θυμοῦ πλησθεὶς, προσέταξεν τοῖς παρεστῶσιν αὐτῷ, καὶ ἐξαγαγὼν τὸν ἅγιον Καισάριον ἐκ μέσου τοῦ λαοῦ καὶ πάλιν ἐκέλευσεν ἀπαναχθέντα αὐτὸν καὶ κατακλεισθῆναι ἐν τῇ φυλακῇ. ἐποίησεν δὲ ὁ μακάριος μάρτυς ἐν τῇ φυλακῇ ἐνιαυτὸν ἕνα καὶ μῆνα ἕνα.
 
-### Κεφάλαιον Γʹ. *Leontii conversio et beata mors. Caesarius et Iulianus, a Luxurio primo civitatis damnati et sacco inclusi, demerguntur in mare. Luxurius secundum Caesarii prophetiam a serpente necatur. Caesarii et Iuliani corpora ab Eusebio monacho sepeliuntur.*  
+### Κεφάλαιον Γʹ. *Leontii conversio et beata mors. Caesarius et Iulianus, a Luxurio primo civitatis damnati et sacco inclusi, demerguntur in mare. Luxurius secundum Caesarii prophetiam a serpente necatur. Caesarii et Iuliani corpora ab Eusebio monacho sepeliuntur.*
+
+&nbsp;
 
 §22) Συμπληρωθέντος δὲ τοῦ καιροῦ, προσέταξεν δὲ ὁ δυσσεβὴς Λουξούριος ἐκβληθῆναι τὸν ἅγιον Καισάριον ἐκ τῆς φυλακῆς, καὶ ἀποστέλλει πρὸς Λεόντιον τὸν ὕπατον, ὅστις καὶ ἦν ὑποβαλὼν αὐτῷ ὅπως συντόμως ἀναιρεθῇ. ἐκβληθέντος δὲ τοῦ μακαρίου Καισαρίου ἐκ τῆς φυλακῆς, ἦν κατατακεὶς τῷ σώματι πάνυ, ἡ δὲ κόμη τῆς κεφαλῆς αὐτοῦ ἦν αὐξηθεῖσα, ὥστε σκέπεσθαι αὐτὸν ὑπὸ τῶν αὐτοῦ τριχῶν. ἦν γὰρ γυμνὸς τῷ σώματι. τοιγαροῦν ἄγγελος κυρίου τοῦτον ἡμέρας καὶ νυκτὸς ἐφύλαττεν.
 
@@ -80,7 +84,9 @@ source: Acta Sanctorum ex BAV Vat. gr. 1608
 
 §31) Μετὰ οὖν πέντε ἡμέρας εὑρέθη ὁ αὐτὸς δοῦλος τοῦ θεοῦ τοὔνομα Εὐσέβιος ἐν αὐτῷ τῷ τόπῳ ἐν ᾦ ἦν καταθέμενος τοὺς ἁγίους μάρτυρας τοῦ Χριστοῦ, νηστεύων καὶ εὐχόμενος καὶ ψάλλων ἀδιαλείπτως κυρίῳ τῷ θεῷ ἡμῶν. τοῦτο δὲ θεασάμενοι πολλοὶ συνέτρεχον τῷ μακαρίῳ Εὐσεβίῳ ἀπὸ τῆς πόλεως Τερρακίνης, διὰ τὸ ὡς εἴρηται πλησιάζειν τὸν τόπον τῇ πόλει · πολλοὶ μὲν οὖν ἐπέστρεφον πρός κύριον καὶ ἐβαπτίζοντο ὑπὸ τοῦ μακαρίου Φίλικος τοῦ πρεσβυτέρου.
 
-### Κεφάλαιον Δʹ. *Felix presbyter et Eusebius monachus a Leontio filio Leontii consularis capite plectuntur. Eorum corpora a Quarto presbytero iuxta corpus sancti Cæsarii sepulta.*  
+### Κεφάλαιον Δʹ. *Felix presbyter et Eusebius monachus a Leontio filio Leontii consularis capite plectuntur. Eorum corpora a Quarto presbytero iuxta corpus sancti Cæsarii sepulta.*
+
+&nbsp;
 
 §32) Ταῦτα δὲ ἀκούσας Λεόντιος ὁ υἱὸς Λεοντίου τοῦ ὑπάτου, θυμομαχῶν διὰ τὸν θάνατον τοῦ πατρὸς αὐτοῦ, ἀπέστειλεν στρατιώτας καὶ ἐκέλευσεν κρατηθῆναι τὸν μακάριον Φίλικα τὸν πρεσβύτερον καὶ Εὐσέβιον τὸν μοναχόν · οὓς καὶ προσέταξεν κατὰ πρόσωπον τῶν ἐκεῖσε πολιτῶν ἀχθῆναι ἐπὶ τῆς ἀγορᾶς πρὸς ἐρώτησιν.
 
