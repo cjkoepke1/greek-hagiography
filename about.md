@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+---
 
 This website is meant to serve as an online repository for hagiography of Late Antiquity and the Middle Ages, thereby making the texts accessible to the public. These lightly edited digital editions are based on those edited by the Bollandists in the *Acta Sanctorum*, a quasi-encyclopedic, multi-volume edition of Greek and Latin saints' lives first begun in the 17th century. The texts are organized according to feast day although BHG (Bibliotheca Hagiographica Graeca) numbers are also provided.
 
@@ -14,7 +15,7 @@ The orthography and punctuation of the *Acta Sanctorum* editions has mostly been
 
 Marks of punctuation include the period and the comma, the raised dot · (equivalent to the English colon and semi-colon), and the question mark ; (equivalent to '?'). Guillemets are employed to offset dialogue. 
 
-Chapter and section breaks follow those established by the *Acta Sanctorum* texts. 
+Chapter and section breaks follow those established by the editors of the *Acta Sanctorum*. 
 
 ---
 
