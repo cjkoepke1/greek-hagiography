@@ -4,7 +4,7 @@ title: About
 ---
 
 
-This website is meant to serve as an online repository for hagiography of Late Antiquity and the Middle Ages, thereby making the texts accessible to the public. These lightly edited digital editions are based on those edited by the Bollandists in the *Acta Sanctorum*, a quasi-encyclopedic, multi-volume edition of Greek and Latin saints' lives first begun in the 17th century. 
+This website is meant to serve as an online repository for hagiography of Late Antiquity and the Middle Ages, thereby making the texts accessible to the public. These lightly edited digital editions are based on those edited by the Bollandists in the *Acta Sanctorum*, a quasi-encyclopedic, multi-volume edition of Greek and Latin saints' lives first begun in the 17th century. The texts are organized according to feast day although BHG (Bibliotheca Hagiographica Graeca) numbers are also provided.
 
 More texts will be added over time as they are prepared. 
 
@@ -18,7 +18,7 @@ Chapter and section breaks follow those established by the *Acta Sanctorum* text
 
 ---
 
-## Using Ed
+### Using Ed
 
 To learn how to use Ed for your own digital editing project, visit the
 [documentation page](http://minicomp.github.io/ed/documentation).
