@@ -17,7 +17,7 @@ title: "Greek Hagiography"
 
 ### 1
 
-- [Passio Caesarii et Iuliani, martyres Terracinae (BHG 284)](https://cjkoepke1.github.io/greek-hagiography/texts/passio-caesarii)
+- [Passio Caesarii et Iuliani, martyrum Terracinae (BHG 284)](https://cjkoepke1.github.io/greek-hagiography/texts/passio-caesarii)
 - [Translatio Caesarii martyris Romam (BHG 285)](https://cjkoepke1.github.io/greek-hagiography/texts/translatio-caesarii)
 
 ## December (*Δεκέμβριος*)
