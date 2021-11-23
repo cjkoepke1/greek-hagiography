@@ -9,7 +9,7 @@ This website is meant to serve as an online repository for hagiography of Late A
 
 More texts will be added over time as they are prepared. 
 
-### A note on spelling and punctuation
+## A note on spelling and punctuation
 
 The orthography and punctuation of the *Acta Sanctorum* editions has mostly been preserved here. Names of persons and places are capitalized as well as the intial letters of sections and quotations. Otherwise, minuscule characters are used. 
 
@@ -19,7 +19,7 @@ Chapter and section breaks follow those established by the editors of the *Acta 
 
 ---
 
-### Using Ed
+## Using Ed
 
 To learn how to use Ed for your own digital editing project, visit the
 [documentation page](http://minicomp.github.io/ed/documentation).
