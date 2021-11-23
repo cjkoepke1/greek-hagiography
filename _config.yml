@@ -4,8 +4,8 @@
 title:               Greek Hagiography
 tagline:             'A preliminary digital legendarium'
 description:         'This website uses Ed, a Jekyll theme designed for textual editors based on minimal computing principles and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/greek-hagiography'
+url:                 'https://www.greekhagiography.com'
+baseurl:             '/'
 
 # About/contact
 author:
