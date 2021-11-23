@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Passio Caesarii et Iuliani, martyres Terracinae
+title: Passio Caesarii et Iuliani, martyrum Terracinae
 bhg: 284
 feast: November 1
 author: Anonymous
