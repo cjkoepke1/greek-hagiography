@@ -24,6 +24,10 @@ title: "Greek Hagiography"
 
 ## January (*Ἰανουάριος*)
 
+### 2
+
+- [Distichon de Marco Surdo](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-marco-surdo)
+
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
