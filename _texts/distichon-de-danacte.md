@@ -8,6 +8,8 @@ editor: Carson Koepke
 source: Acta Sanctorum ex Menaeis Graecorum
 ---
 
+---
+
 - Συναφαιρέτης τὸ δέλτα κάρα Δάναξ,
 - Τμηθεὶς γὰρ ὤφθης οὐρανοκράτωρ ἄναξ.
 
