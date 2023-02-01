@@ -28,6 +28,10 @@ title: "Greek Hagiography"
 
 - [Distichon de Marco Surdo](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-marco-surdo)
 
+### 16
+
+- [Distichon de Danacte, martyre in Illirico](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-danacte)
+
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
