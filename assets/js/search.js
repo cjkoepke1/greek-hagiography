@@ -8,6 +8,8 @@ var index = elasticlunr(function () {
   this.addField('title')
   this.addField('author')
   this.addField('layout')
+  this.addField('bhg')
+  this.addField('feast')
   this.addField('content')
   this.setRef('id')
 });
