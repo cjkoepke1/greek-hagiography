@@ -20,6 +20,8 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
+  bhg: {{text.bhg | jsonify}},
+  feast: {{text.feast | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
@@ -29,7 +31,9 @@ console.log( jQuery.type(index) );
 var store = [{% for text in site.texts %}{
   "title": {{text.title | jsonify}},
   "author": {{text.author | jsonify}},
-  "layout": {{ text.layout | jsonify }},
+  "layout": {{text.layout | jsonify}},
+  "bhg": {{text.bhg | jsonify}},
+  "feast": {{text.feast | jsonify}},
   "link": {{text.url | jsonify}},
 }
 {% unless forloop.last %},{% endunless %}{% endfor %}]
