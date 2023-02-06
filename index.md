@@ -36,6 +36,10 @@ title: "Greek Hagiography"
 
 - [Distichon de Neophyto, martyre Nicaeae in Bithynia](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-neophyto)
 
+### 24
+
+- [Versus de Eusebia sive Xene, virgine Mylasae in Caria](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-eusebia-xene)
+
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
