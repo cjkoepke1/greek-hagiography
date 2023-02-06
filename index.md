@@ -32,6 +32,10 @@ title: "Greek Hagiography"
 
 - [Distichon de Danacte, martyre in Illirico](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-danacte)
 
+### 20
+
+- [Distichon de Neophyto, martyre Nicaeae in Bithynia](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-neophyto)
+
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
