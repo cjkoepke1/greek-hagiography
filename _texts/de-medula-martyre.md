@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Menaeis
 
 ---
 
-## Ex Menaeis
+## Ex *Menaeis*
 
 ---
 
