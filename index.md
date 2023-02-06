@@ -40,6 +40,11 @@ title: "Greek Hagiography"
 
 - [Versus de Eusebia sive Xene, virgine Mylasae in Caria](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-eusebia-xene)
 
+### 25
+
+- [De Medula martyre cum sociis](https://cjkoepke1.github.io/greek-hagiography/texts/de-medula-martyre)
+- [Distichon de Medula martyre](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-medula-martyre)
+
 ## February (*Φεβρουάριος*)
 
 ## March (*Μάρτιος*)
