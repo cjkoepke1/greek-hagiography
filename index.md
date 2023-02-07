@@ -45,6 +45,11 @@ title: "Greek Hagiography"
 - [De Medula martyre cum sociis](https://cjkoepke1.github.io/greek-hagiography/texts/de-medula-martyre)
 - [Distichon de Medula martyre](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-medula-martyre)
 
+### 26
+
+- [De Gabriele, presbytero et abbate Hierosolymis](https://cjkoepke1.github.io/greek-hagiography/texts/de-gabriele-presbytero)
+- [Distichon de Gabriele, presbytero et abbate Hierosolymis](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-gabriele-presbytero)
+
 ### 28
 
 - [Distichon de Cyrillo, patriarcha Alexandrino](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-cyrillo-patriarcha)
