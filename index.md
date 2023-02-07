@@ -45,6 +45,10 @@ title: "Greek Hagiography"
 - [De Medula martyre cum sociis](https://cjkoepke1.github.io/greek-hagiography/texts/de-medula-martyre)
 - [Distichon de Medula martyre](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-medula-martyre)
 
+### 28
+
+- [Distichon de Cyrillo, patriarcha Alexandrino](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-cyrillo-patriarcha)
+
 ### 29
 
 - [Versus de Sarbelio et Bebaea, martyribus Edessae in Mesopotamia](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-sarbelio-et-bebaea)
