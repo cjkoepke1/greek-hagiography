@@ -94,7 +94,11 @@ title: "Greek Hagiography"
 
 ## June (*Ἰούνιος*)
 
+---
+
 ## July (*Ἰούλιος*)
+
+---
 
 ## August (*Αὔγουστος*)
 
