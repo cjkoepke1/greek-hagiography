@@ -9,9 +9,15 @@ title: "Greek Hagiography"
 
 # Contents
 
+---
+
 ## September (*Σεπτέμβριος*)
 
+---
+
 ## October (*Ὀκτώβριος*)
+
+---
 
 ## November (*Νοέμβριος*)
 
@@ -20,7 +26,11 @@ title: "Greek Hagiography"
 - [Passio Caesarii et Iuliani, martyrum Terracinae (BHG 284)](https://cjkoepke1.github.io/greek-hagiography/texts/passio-caesarii)
 - [Translatio Caesarii martyris Romam (BHG 285)](https://cjkoepke1.github.io/greek-hagiography/texts/translatio-caesarii)
 
+---
+
 ## December (*Δεκέμβριος*)
+
+---
 
 ## January (*Ἰανουάριος*)
 
@@ -58,17 +68,29 @@ title: "Greek Hagiography"
 
 - [Versus de Sarbelio et Bebaea, martyribus Edessae in Mesopotamia](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-sarbelio-et-bebaea)
 
+
+---
+
 ## February (*Φεβρουάριος*)
 
 ### 1
 
 - [Translatio Ignatii Theophori, episcopi Antiocheni et martyris Romae](https://cjkoepke1.github.io/greek-hagiography/texts/translatio-ignatii-theophori)
 
+
+---
+
 ## March (*Μάρτιος*)
+
+---
 
 ## April (*Ἀπρίλιος*)
 
+---
+
 ## May (*Μάιος*)
+
+---
 
 ## June (*Ἰούνιος*)
 
