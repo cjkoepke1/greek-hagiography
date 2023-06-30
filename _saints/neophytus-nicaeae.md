@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Neophytus, martyr of Nicaea in Bithynia
 bhg: N/A
 feast: January 20
