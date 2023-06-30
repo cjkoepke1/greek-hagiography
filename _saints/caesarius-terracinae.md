@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Caesarius of Terracina
 bhg: 284, 285
 feast: November 1
