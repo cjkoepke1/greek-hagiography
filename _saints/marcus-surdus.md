@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: default
 title: Marcus Surdus
 bhg: N/A
 feast: January 2
