@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Cyrillus, patriarch of Alexandria
 bhg: N/A
 feast: January 28
