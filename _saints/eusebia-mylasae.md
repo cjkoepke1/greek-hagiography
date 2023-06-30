@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Eusebia or Xene, virgin of Mylasa in Caria
-bhg: N/A
+bhg: 633, 634
 feast: January 24
 ---
 
