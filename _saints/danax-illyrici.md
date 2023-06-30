@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: default
 title: Danax, martyr in Illyricum
 bhg: N/A
 feast: January 16
