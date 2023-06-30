@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Cyrillus, archbishop of Jerusalem
 bhg: N/A
 feast: March 18
