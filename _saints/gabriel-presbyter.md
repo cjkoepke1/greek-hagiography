@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Gabriel, priest and abbot of Jerusalem
 bhg: N/A
 feast: January 26
