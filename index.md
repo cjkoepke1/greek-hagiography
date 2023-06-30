@@ -35,37 +35,35 @@ title: "Greek Hagiography"
 
 ### 2
 
-- [Distichon de Marco Surdo](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-marco-surdo)
+- [Marcus Surdus](https://cjkoepke1.github.io/greek-hagiography/saints/marcus-surdus)
 
 ### 16
 
-- [Distichon de Danacte, martyre in Illirico](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-danacte)
+- [Danax, martyr in Illyricum](https://cjkoepke1.github.io/greek-hagiography/saints/danax-illyrici)
 
 ### 20
 
-- [Distichon de Neophyto, martyre Nicaeae in Bithynia](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-neophyto)
+- [Neophytus, martyr of Nicaea in Bithynia](https://cjkoepke1.github.io/greek-hagiography/saints/neophytus-nicaeae)
 
 ### 24
 
-- [Versus de Eusebia sive Xene, virgine Mylasae in Caria](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-eusebia-xene)
+- [Eusebia or Xene, virgin of Mylasa in Caria](https://cjkoepke1.github.io/greek-hagiography/saints/eusebia-mylasae)
 
 ### 25
 
-- [De Medula martyre cum sociis](https://cjkoepke1.github.io/greek-hagiography/texts/de-medula-martyre)
-- [Distichon de Medula martyre](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-medula-martyre)
+- [Medula, martyr](https://cjkoepke1.github.io/greek-hagiography/saints/medula-martyr)
 
 ### 26
 
-- [De Gabriele, presbytero et abbate Hierosolymis](https://cjkoepke1.github.io/greek-hagiography/texts/de-gabriele-presbytero)
-- [Distichon de Gabriele, presbytero et abbate Hierosolymis](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-gabriele-presbytero)
+- [Gabriel, priest and abbot of Jerusalem](https://cjkoepke1.github.io/greek-hagiography/saints/gabriel-presbyter)
 
 ### 28
 
-- [Distichon de Cyrillo, patriarcha Alexandrino](https://cjkoepke1.github.io/greek-hagiography/texts/distichon-de-cyrillo-patriarcha)
+- [Cyrillus, patriarch of Alexandria](https://cjkoepke1.github.io/greek-hagiography/saints/cyrillus-patriarcha)
 
 ### 29
 
-- [Versus de Sarbelio et Bebaea, martyribus Edessae in Mesopotamia](https://cjkoepke1.github.io/greek-hagiography/texts/versus-de-sarbelio-et-bebaea)
+- [Sarbelius and Bebaea, martyrs of Edessa in Mesopotamia](https://cjkoepke1.github.io/greek-hagiography/saints/sarbelius-et-bebaea)
 
 
 ---
@@ -74,8 +72,7 @@ title: "Greek Hagiography"
 
 ### 1
 
-- [Translatio Ignatii Theophori, episcopi Antiocheni et martyris Romae](https://cjkoepke1.github.io/greek-hagiography/texts/translatio-ignatii-theophori)
-
+- [Ignatius Theophorus, bishop of Antioch and Roman martyr](https://cjkoepke1.github.io/greek-hagiography/saints/ignatius-theophorus)
 
 ---
 
@@ -83,7 +80,7 @@ title: "Greek Hagiography"
 
 ### 18
 
-- [Μνήμη Κυρίλλου Ἀρχιεπισκόπου Ἱεροσολύμων / Monumentum Cyrilli archiepiscopi Hierosolymorum](https://cjkoepke1.github.io/greek-hagiography/texts/monumentum-cyrilli-archiepiscopi)
+- [Cyrillus, archbishop of Jerusalem](https://cjkoepke1.github.io/greek-hagiography/saints/cyrillus-archiepiscopus)
 
 ---
 
