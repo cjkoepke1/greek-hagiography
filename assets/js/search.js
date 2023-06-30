@@ -38,30 +38,6 @@ var store = [{% for text in site.texts %}{
 }
 {% unless forloop.last %},{% endunless %}{% endfor %}]
 
-// Add to this index the proper metadata from the Jekyll content
-{% assign count = 0 %}{% for saint in site.saints %}
-index.addDoc({
-  title: {{saint.title | jsonify}},
-  author: {{saint.author | jsonify}},
-  layout: {{saint.layout | jsonify}},
-  bhg: {{saint.bhg | jsonify}},
-  feast: {{saint.feast | jsonify}},
-  content: {{saint.content | jsonify | strip_html}},
-  id: {{count}}
-});{% assign count = count | plus: 1 %}{% endfor %}
-console.log( jQuery.type(index) );
-
-// Builds reference data (maybe not necessary for us, to check)
-var store = [{% for saint in site.saints %}{
-  "title": {{saint.title | jsonify}},
-  "author": {{saint.author | jsonify}},
-  "layout": {{saint.layout | jsonify}},
-  "bhg": {{saint.bhg | jsonify}},
-  "feast": {{saint.feast | jsonify}},
-  "link": {{saint.url | jsonify}},
-}
-{% unless forloop.last %},{% endunless %}{% endfor %}]
-
 // Query
 var qd = {}; // Gets values from the URL
 location.search.substr(1).split("&").forEach(function(item) {
