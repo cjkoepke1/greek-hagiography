@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Eusebia or Xene, virgin of Mylasa in Caria
 bhg: N/A
 feast: January 24
