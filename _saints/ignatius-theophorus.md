@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Ignatius Theophorus, bishop of Antioch and Roman martyr
-bhg: N/A
+bhg: 813, 814, 815, 816
 feast: February 1
 ---
 
