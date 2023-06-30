@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Ignatius Theophorus, bishop of Antioch and Roman martyr
 bhg: N/A
 feast: February 1
