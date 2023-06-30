@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Medula, martyr
 bhg: N/A
 feast: January 25
