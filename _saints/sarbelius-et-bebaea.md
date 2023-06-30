@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Sarbelius et Bebaea, martyrs of Edessa in Mesopotamia
 bhg: N/A
 feast: January 29
