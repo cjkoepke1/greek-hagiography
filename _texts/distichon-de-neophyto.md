@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Neophyto, martyre Nicaeae in Bithynia
+title: Distich on Neophytus, martyr of Nicaea in Bithynia
 bhg: N/A
 feast: January 20
 author: Anonymous
