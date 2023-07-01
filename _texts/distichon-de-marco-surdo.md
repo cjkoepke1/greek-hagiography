@@ -3,7 +3,7 @@ layout: poem
 title: Distich on Marcus Surdus
 bhg: N/A
 feast: January 2
-author: Anonymous
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
