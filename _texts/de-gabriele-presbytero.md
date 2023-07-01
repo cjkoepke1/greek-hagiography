@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: De Gabriele, presbytero et abbate Hierosolymis
+title: On Gabriel, priest and abbot of Jerusalem
 bhg: N/A
 feast: January 26
 author: Anonymous
