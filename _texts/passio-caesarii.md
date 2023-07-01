@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: Passio Caesarii et Iuliani, martyrum Terracinae
+title: Passion of Caesarius and Julianus, martyrs of Terracina
 bhg: 284
 feast: November 1
-author: Anonymous
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum ex BAV Vat. gr. 1608
 ---
