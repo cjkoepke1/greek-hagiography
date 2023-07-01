@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: Μνήμη Κυρίλλου Ἀρχιεπισκόπου Ἱεροσολύμων / Monumentum Cyrilli archiepiscopi Hierosolymorum
+title: Memorial of Cyrillus, archbishop of Jerusalem / Μνήμη Κυρίλλου Ἀρχιεπισκόπου Ἱεροσολύμων
 bhg: N/A
 feast: March 18
-author: Anonymous / ἀνώνυμος
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
