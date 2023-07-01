@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Gabriele, presbytero et abbate Hierosolymis
+title: Distich on Gabriel, priest and abbot of Jerusalem
 bhg: N/A
 feast: January 26
 author: Anonymous
