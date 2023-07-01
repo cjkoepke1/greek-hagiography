@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: De Medula martyre et sociis
+title: On Medula, martyr, and her companions
 bhg: N/A
 feast: January 25
 author: Anonymous
