@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Danacte, martyre in Illirico
+title: Distich on Danax, martyr in Illyricum
 bhg: N/A
 feast: January 16
 author: Anonymous
