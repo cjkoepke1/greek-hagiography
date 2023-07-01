@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Medula martyre
+title: Distich on Medula, martyr
 bhg: N/A
 feast: January 25
 author: Anonymous
