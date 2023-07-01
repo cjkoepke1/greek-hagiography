@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: Versus de Eusebia sive Xene, virgine Mylasae in Caria
+title: Verses on Eusebia or Xene, virgin of Mylasa in Caria
 bhg: N/A
 feast: January 24
-author: Anonymous
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum ex Menaeis et Anthologio Graecorum
 ---
