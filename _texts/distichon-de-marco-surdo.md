@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Marco Surdo
+title: Distich on Marcus Surdus
 bhg: N/A
 feast: January 2
 author: Anonymous
