@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: Versus de Sarbelio et Bebaea, martyribus Edessae in Mesopotamia
+title: Verses on Sarbelius and Bebaea, martyrs of Edessa in Mesopotamia
 bhg: N/A
 feast: January 29
-author: Anonymous
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
