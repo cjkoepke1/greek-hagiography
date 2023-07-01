@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: Translatio Ignatii Theophori, episcopi Antiocheni et martyris Romae
+title: Translation of Ignatius Theophorus, bishop of Antiochen and Roman martyr
 bhg: N/A
 feast: February 1
-author: Evagrius Scholasticus
+author: Evagrius Scholasticus / Εὐάγριος Σχολαστικός
 editor: Carson Koepke
 source: Acta Sanctorum ex Historia Ecclesiastica, cap. 16
 ---
