@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: Translatio Caesarii martyris Romam
+title: Translation of Caesarius of Terracina to Rome
 bhg: 285
 feast: November 1
-author: Anonymous
+author: Anonymous / Ἀνώνυμος
 editor: Carson Koepke
 source: Acta Sanctorum ex BAV Vat. gr. 1608
 ---
