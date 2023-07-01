@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Distichon de Cyrillo, patriarcha Alexandrino
+title: Distich on Cyrillus, patriarch of Alexandria
 bhg: N/A
 feast: January 28
 author: Anonymous
