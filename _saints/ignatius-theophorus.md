@@ -10,3 +10,5 @@ feast: February 1
 - [Translation of Ignatius Theophorus](https://cjkoepke1.github.io/greek-hagiography/texts/translatio-ignatii-theophori)
 
 ---
+
+[The Latin tradition](https://www.latinhagiography.com/saints/ignatius-theophorus/)
