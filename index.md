@@ -77,6 +77,7 @@ title: "Greek Hagiography"
 ### 4
 
 - [Isidorus Pelusiota, priest and monk in Egypt](https://cjkoepke1.github.io/greek-hagiography/saints/isidorus-pelusiota/)
+- [Theoctistus, martyr](https://cjkoepke1.github.io/greek-hagiography/saints/theoctistus-martyr/)
 
 ---
 
