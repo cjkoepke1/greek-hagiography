@@ -76,6 +76,7 @@ title: "Greek Hagiography"
 
 ### 4
 
+- [Johannes, bishop of Irenopolis in Isauria](https://cjkoepke1.github.io/greek-hagiography/saints/iohannes-irenopolis/)
 - [Isidorus Pelusiota, priest and monk in Egypt](https://cjkoepke1.github.io/greek-hagiography/saints/isidorus-pelusiota/)
 - [Theoctistus, martyr](https://cjkoepke1.github.io/greek-hagiography/saints/theoctistus-martyr/)
 
