@@ -74,6 +74,10 @@ title: "Greek Hagiography"
 
 - [Ignatius Theophorus, bishop of Antioch and Roman martyr](https://cjkoepke1.github.io/greek-hagiography/saints/ignatius-theophorus)
 
+### 4
+
+- [Isidorus Pelusiota, priest and monk in Egypt](https://cjkoepke1.github.io/greek-hagiography/saints/isidorus-pelusiota/)
+
 ---
 
 ## March (*Μάρτιος*)
